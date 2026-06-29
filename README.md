@@ -11,37 +11,35 @@
 - Muhammad Abdullah virk
 - Numaira Fatima
 
+**GitHub usernames:**
+
+- [@nfatima626](https://github.com/nfatima626)
+
 ---
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 8 — The Social-Commerce Support Agent](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-8--the-social-commerce-support-agent)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+Our target user is a 25 to 35-year-old woman who runs a home-based clothing business on Instagram and WhatsApp in Lahore or Karachi. She receives 200 to 300 customer messages every day, manages cash on delivery orders herself, and spends several hours replying to repetitive questions instead of growing her business.
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+Our target user receives hundreds of customer messages every day asking the same questions about price, size, stock availability, cash on delivery, and delivery charges. She replies manually through WhatsApp, which takes hours and often leads to delayed responses, missed orders, and lost sales. At night and during busy hours, many customer messages remain unanswered, causing customers to buy from competitors instead.
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+In eight weeks, we will build a WhatsApp AI support agent for clothing sellers that answers product questions using the seller's catalog, confirms cash on delivery orders, and hands complex customer issues to the seller when needed.
+
+### The one number that proves people want it
+
+We have already seen a local bakery successfully use a WhatsApp AI agent to take and confirm customer orders, which shows that businesses are willing to trust AI for customer support. For our product, our success metric is to have at least 5 real WhatsApp based businesses use our AI agent to handle real customer conversations. If those businesses continue using it after the initial trial, we will consider it strong evidence that there is real demand for our solution.
+
+### Why we picked this idea
+
+We picked this idea because we have personally experienced both sides of the problem. We have interacted with a bakery that successfully uses a WhatsApp AI agent to take and confirm customer orders, which showed us that customers are comfortable buying through AI. We have also seen online stores with excellent products but poor customer support, where slow responses create a frustrating customer experience. Since Instagram and WhatsApp sellers are easy to reach, we can interview potential users, test our solution with them, and collect real feedback within the cohort timeline.
 
 ---
 
